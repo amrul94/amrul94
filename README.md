@@ -3,7 +3,7 @@
 
 Я выпускник Российского технологического университета МИРЭА на направлении «Прикладная математика и информатика». Дополнительно прошел обучение в Яндекс.Практикуме на направлении «Разработчик С++».
 
-**Стек:** C++, Python, SQL, Cmake, Git, Clion, Microsoft Visual Studio, JSON, Protobuf.
+**Стек:** C++, Python, Cmake, Git, Clion, Microsoft Visual Studio, JSON, Protobuf.
 
 **Мои резюме:** 
 - HeadHunter: https://hh.ru/applicant/resumes/view?resume=f2f9e1aeff090215820039ed1f7472795a6270
